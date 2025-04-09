@@ -40,6 +40,18 @@ A Streamlit-based web application for monitoring and analyzing urban air quality
 - `requirements.txt`: Project dependencies
 - `README.md`: Project documentation
 
+## Dependencies
+- Python 3.7+
+- Streamlit
+- Folium
+- Pandas
+- NumPy
+- scikit-learn
+- Joblib
+- Requests
+- OpenWeatherMap API
+
+  
 ## Note
 
 This application currently uses mock data for demonstration purposes. To use real air quality data, you would need to:
@@ -47,6 +59,12 @@ This application currently uses mock data for demonstration purposes. To use rea
 1. Sign up for an air quality API service (e.g., OpenWeatherMap, AirVisual)
 2. Create a `.env` file with your API key
 3. Modify the `get_air_quality_data()` function in `app.py` to fetch real data
+
+## Contributing
+1. Fork the repository
+2. Create a feature branch
+3. Submit a pull request
+
 
 ## License
 
