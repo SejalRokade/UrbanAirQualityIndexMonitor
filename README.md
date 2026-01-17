@@ -66,6 +66,4 @@ This application currently uses mock data for demonstration purposes. To use rea
 3. Submit a pull request
 
 
-## License
 
-MIT License 
